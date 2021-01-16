@@ -1,9 +1,6 @@
 # 42Kmi LagDrop
 
-![LagDrop](https://i.imgur.com/tLed6iA.png)
-
-
-![Super Smash Bros. Ultimate](https://i.imgur.com/FFhu9Pv.png)
+__NOTICE: I (iiLaurens) deobfuscated the lagdrop script, as I did not want unverified code running on my router that potentially exposes my entire network. Hopefully this helps you too.__
 
 [![Donate to keep us going!](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HA78KL8EWDJ8Q)
 Donate to LagDrop development! Created and maintained by 42Kmi.
